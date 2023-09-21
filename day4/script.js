@@ -38,8 +38,8 @@
 // });
 
 
+// Adding a click button using call stack function
 
-
-document.getElementById("ClickMe").addEventListener("click", function xyz() {
-console.log("Button Clicked");
-});
+//document.getElementById("ClickMe").addEventListener("click", function xyz() {
+//console.log("Button Clicked");
+//});
