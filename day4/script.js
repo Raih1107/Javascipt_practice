@@ -6,12 +6,12 @@
 //     console.log("a called");
 // }
 
-// //Function expression
+//Function expression
 // var b = function() {
 //     console.log("b is called");
 // }
 
-// // Named Function
+// Named Function
 // var add = function sum(x, y) {
 //     return x + y;
 // };
