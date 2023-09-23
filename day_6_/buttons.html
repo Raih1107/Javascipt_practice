@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .subscribe_button{
+            background-color: rgb(200, 0, 0);
+            color: white;
+            border: solid;
+            
+            border-radius: 2px;
+            cursor:pointer;
+            margin-right: 8px;
+            margin-left: 20px;
+            transition:opacity 
+            0.15s;
+            padding-top: 10px;
+            padding-left: 16px;
+            padding-right: 16px;
+            padding-bottom: 10px;
+            /*vertical-align:top; */
+            margin-top: 2px;
+
+        }
+
+        .subscribe_button:hover {
+            opacity: 0.7;
+        }
+
+        .subscribe_button:active {
+            opacity: 0.5;
+        }
+        
+        .join_button{
+            background-color: white;
+            border-color: #0000ffbc;
+            border-style: solid;
+            border-width: 1px;
+            color: rgba(0, 0, 255, 0.737);
+            
+            border-radius: 2px;
+            cursor: pointer;
+            transition: background-color 0.15s,
+            color 0.15s;
+            
+            padding-top: 9px;
+            padding-left: 16px;
+            padding-right: 16px;
+            padding-bottom: 9px;
+            /*vertical-align: top;*/
+            margin-top: 2px;
+        }
+
+        .join_button:hover {
+            background-color: #0000ffbc;
+            color: white;
+
+        }
+        .join_button:active {
+            opacity:0.7;
+            
+        }
+        .tweet_button{
+            background-color: rgba(0, 166, 255, 0.596);
+            border-radius: 18px;
+            border: none;
+            color: white;
+            height:36px;
+            width: 70px;
+            font-weight:bold;
+            font-size: 15px;
+            cursor:pointer;
+            margin-left: 8px;
+            transition: box-shadow 0.15;
+            /*vertical-align: top;*/
+            margin-top: 2px;
+        }
+        
+        .tweet_button:hover{
+            box-shadow: 5px 5px 10px  rgba(0,0,0,
+            0.15);
+        }
+
+        
+    </style>
+</head>
+<body>
+    <button class="subscribe_button">SUBSCRIBE</button>
+    <button class="join_button">JOIN</button>
+    <button class="tweet_button">Tweet</button>
+</body>
+</html>
