@@ -1,0 +1,28 @@
+
+.profile_pic{
+    width: 75px;
+    height: 75px;
+    border-radius:75px ;
+    vertical-align: middle;
+}
+
+.type_box{
+    vertical-align: middle;
+    border: none;
+    color: rgba(128, 128, 128, 0.027);
+    height: 25px;
+}
+
+.tweet_button{
+    vertical-align: middle;
+    background-color: rgb(0, 149, 255);
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+
+}

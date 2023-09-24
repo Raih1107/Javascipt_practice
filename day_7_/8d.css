@@ -1,0 +1,44 @@
+#name{
+    
+    /* text-align: center; */
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+
+
+}
+#first_name{
+    border-color: gainsboro;
+    border-style: solid;
+    border-radius: 5px;
+    height: 30px;
+}
+#last_name{
+    border-color: gainsboro;
+    border-style: solid;
+    border-radius: 5px;
+    height: 30px;
+}
+#Email{
+    
+    /* margin-left: 323px;
+    margin-right: 323px; */
+    display: block;
+    width: 350px;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+#Sign_up{
+    background-color: rgb(0, 68, 255);
+    border-style: none;
+    color: white;
+    font-weight: solid;
+    width: 355px;
+    /* margin-left: 323px;
+    margin-right: 323px; */
+    border-radius: 10px;
+    height: 40px;
+}

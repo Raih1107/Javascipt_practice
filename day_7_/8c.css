@@ -1,0 +1,26 @@
+
+.Search_google{
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 20px;
+    border-style: none;
+    border-width: 1px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    
+    margin-top: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+.google{
+    width: 300px;
+    height: 100px;
+    
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+
+}

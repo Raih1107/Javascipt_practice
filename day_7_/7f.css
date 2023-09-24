@@ -1,0 +1,23 @@
+p{
+    font-family: Arial;
+    color: gray;
+    cursor: default;
+
+}
+#Email_box{
+    width: 395px;
+    height: 25px;
+    border-radius: 5px;
+}
+#agree_join{
+    background-color: rgba(5, 65, 244, 0.836);
+    font-size: 20px;
+    color: white;
+    padding-left: 145px;
+    padding-right: 145px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+}
