@@ -1,0 +1,8 @@
+.border{
+    height: 100px ;
+    width: 250px;
+    padding-left: 10px;
+    border-color: rgba(128, 128, 128, 0.496);
+    border-style: solid;
+    
+}

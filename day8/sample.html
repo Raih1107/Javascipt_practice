@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image, Text, and Button in a Div</title>
+    <style>
+        .image-container {
+            width: 300px; /* Adjust the width and height of the container as needed */
+            height: 600px;
+            border: 1px solid #ccc; /* Optional: Add a border to the container */
+            overflow: hidden; /* Optional: Hide any image overflow */
+        }
+
+        /* Optional: Add some padding or margin for spacing */
+        .image-container img {
+            width: 100%;
+            height: 60%; /* Adjust the height of the image area */
+            object-fit: cover; /* Optional: Control how the image fits inside the container */
+            margin-bottom: 10px;
+        }
+
+        /* Style for the text and button */
+        .content {
+            margin-top: 10px; /* Add padding for spacing */
+            text-align: left; /* Center align the content */
+        }
+
+        .Name {
+            font-size: 40px; /* Adjust font size */
+            margin-top: 10px;
+        }
+
+        .add_friend {
+            background-color: #007bff; /* Button background color */
+            color: #fff; /* Button text color */
+            padding: 10px 20px; /* Adjust padding */
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="Gigachad.png" alt="Your Image Description">
+        <div class="content">
+            <p class="Name"> <Strong>Chad</Strong><p>
+                <p class="friend">2 mutual friends</p>
+            <button class="add_friend">Add Friend</button>
+        </div>
+    </div>
+</body>
+</html>

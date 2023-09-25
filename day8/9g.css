@@ -1,0 +1,41 @@
+.container{
+    width: 200px;
+    height: fit-content;
+    display: inline-block;
+    margin-right: 15px;
+    vertical-align: top;
+    border-color: rgb(244, 239, 239);
+    border-style: solid;
+}
+
+.profile_pic{
+    width: 200px;
+    height: 230.5px;
+    display: block;
+}
+
+.Name{
+    font-family: Poppins;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.friends{
+    font-family: Poppins;
+    font-size: 15px;
+    margin-top: 5px;
+    color: gray;
+
+}
+.add_friend{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(0, 110, 255);
+    border: none;
+    color: white;
+    border-radius:5px;
+    cursor: pointer;
+
+}

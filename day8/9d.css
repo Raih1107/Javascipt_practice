@@ -1,0 +1,19 @@
+.youtube{
+    height: fit-content;
+    width: fit-content;
+    color: white;
+    background-color: black;
+    font-family: Roboto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+
+}
+.heading{
+    font-size: 26px;
+    font-weight: 700;
+}
+.para{
+    color: rgba(214, 206, 206, 0.939);
+}
