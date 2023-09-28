@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.grid1{
+    background-color: aqua;
+}
+.grid2{
+    background-color: yellowgreen;
+}

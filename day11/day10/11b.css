@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+.grid1{
+    background-color: red;
+}
+.grid2{
+    background-color: gray;
+}
+.grid3{
+    background-color: green;
+}
