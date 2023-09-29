@@ -1,0 +1,20 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+}
+
+.box1{
+    background-color: rebeccapurple;
+    width: 50px;
+
+}
+
+.box2{
+    background-color: tan;
+    flex: 1;
+}
+
+.box3{
+    background-color: green;
+    width: 75px;
+}

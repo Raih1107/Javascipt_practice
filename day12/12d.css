@@ -1,0 +1,22 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    border-color: gray;
+    padding-top: 25px;
+    /* padding-bottom: 20px; */
+    border-style: solid;
+    justify-content: space-between;
+    height: 50px;
+    flex: 1;
+}
+
+.box1{
+    background-color: aquamarine;
+    height: 20px;
+
+}
+
+.box2{
+    background-color: aquamarine;
+    height: 20px;
+}

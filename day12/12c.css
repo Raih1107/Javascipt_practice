@@ -1,0 +1,21 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 1;
+}
+
+
+.box1{
+    background-color: royalblue;
+
+}
+.box2{
+    background-color: royalblue;
+}
+.box3{
+    background-color: royalblue;
+}
+.box4{
+    background-color: royalblue;
+}

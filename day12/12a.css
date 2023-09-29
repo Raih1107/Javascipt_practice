@@ -1,0 +1,15 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.box1{
+    background-color: orangered;
+    width: 200px;
+}
+
+.box2{
+    background-color: yellowgreen;
+    width: 75px;
+}
